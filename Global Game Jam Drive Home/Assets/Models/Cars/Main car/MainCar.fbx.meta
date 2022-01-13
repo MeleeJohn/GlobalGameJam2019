@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: 6bf6df0711ccc5c4d9ade254fcdfef3e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: body
+    100002: Camera
+    100004: Directional Light
+    100006: Left_FrontWheel
+    100008: //RootNode
+    100010: RearWheels
+    100012: Right_FrontWheel
+    400000: body
+    400002: Camera
+    400004: Directional Light
+    400006: Left_FrontWheel
+    400008: //RootNode
+    400010: RearWheels
+    400012: Right_FrontWheel
+    2000000: Camera
+    2100000: Tire
+    2100002: WheelRim
+    2100004: luggage2
+    2100006: luggage
+    2100008: luggage3
+    2100010: CarPaint
+    2100012: glass
+    2100014: Grills
+    2100016: headLights
+    2100018: headLights_amber
+    2100020: Plate
+    2100022: tail_Lights
+    2100024: tail_Lights_white
+    2300000: body
+    2300002: Left_FrontWheel
+    2300004: RearWheels
+    2300006: Right_FrontWheel
+    3300000: body
+    3300002: Left_FrontWheel
+    3300004: RearWheels
+    3300006: Right_FrontWheel
+    4300000: Right_FrontWheel
+    4300002: RearWheels
+    4300004: Left_FrontWheel
+    4300006: body
+    7400000: Take 001
+    9500000: //RootNode
+    10800000: Directional Light
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CarPaint
+    second: {fileID: 2100000, guid: c77ef090eb05adc40a2d909ed20250ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grills
+    second: {fileID: 2100000, guid: 43c3e731bddfd3f449bd06bec017b93b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plate
+    second: {fileID: 2100000, guid: f9fc8197f3b0f0a46823878ae0c85dde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tire
+    second: {fileID: 2100000, guid: 0c0125044e88d944db7fe13a942fb177, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WheelRim
+    second: {fileID: 2100000, guid: a196aa97a90b734498aa1abf66fe806a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass
+    second: {fileID: 2100000, guid: 30008c622f5540848b48ec582a11b89f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: headLights
+    second: {fileID: 2100000, guid: c993d945fd3af72458ff6dbb9210840b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: headLights_amber
+    second: {fileID: 2100000, guid: 0f68c8e680e89ae4caf08b784a02bc6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: luggage
+    second: {fileID: 2100000, guid: eef6f526f8aa12b4491b17ece3cc432c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: luggage2
+    second: {fileID: 2100000, guid: d88a94425cbacb64fa762466d4229c20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: luggage3
+    second: {fileID: 2100000, guid: 6e330e0b9d5c9ee4badd422cfe3ab391, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tail_Lights
+    second: {fileID: 2100000, guid: 9be36e87ff70d864c9360fd4b24a7022, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tail_Lights_white
+    second: {fileID: 2100000, guid: df954455ae2a5b34c81d4d158d88e77a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
